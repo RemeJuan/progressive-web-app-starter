@@ -92,12 +92,14 @@ module.exports = {
 
     new HtmlWebpackPlugin({
       title: config.title,
+      themeColor: config.themeColor,
       filename: '200.html',
       template: 'src/index.ejs',
     }),
 
     new HtmlWebpackPlugin({
       title: config.title,
+      themeColor: config.themeColor,
       template: 'src/index.ejs',
     }),
   ],

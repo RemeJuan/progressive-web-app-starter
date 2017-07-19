@@ -6,6 +6,7 @@ const bgColor = '#ffffff';
 
 module.exports = {
   title: 'Website Title',
+  themeColor,
   PUBLIC_PATH,
   preCache: {
     cacheId: 'website-cache-id',
