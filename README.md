@@ -28,7 +28,7 @@ SASS files should not be used for local styles or component styles.
 * Clone down the repo
 * `rim -rf .git`
 * `git init`
-* `git remote add orign NEW-REPO-PATH`
+* `git remote add origin NEW-REPO-PATH`
 * `yarn install`
 
 ## Config
