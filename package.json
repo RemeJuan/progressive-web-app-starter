@@ -89,7 +89,7 @@
     "style-loader": "^0.18.2",
     "sw-precache-webpack-plugin": "^0.11.4",
     "webpack": "^3.2.0",
-    "webpack-dev-server": "^2.5.1",
+    "webpack-dev-server": "^3.1.11",
     "webpack-merge": "^4.1.0",
     "webpack-pwa-manifest": "^3.1.2"
   },
