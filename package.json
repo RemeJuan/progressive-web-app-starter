@@ -62,7 +62,7 @@
     "jest": "^20.0.4",
     "lite-server": "^2.2.2",
     "lodash": "^4.17.19",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "null-loader": "^0.1.1",
     "path": "^0.12.7",
     "pixrem": "^4.0.1",
