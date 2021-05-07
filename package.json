@@ -61,7 +61,7 @@
     "incstr": "^1.2.3",
     "jest": "^26.6.3",
     "lite-server": "^2.6.1",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "node-sass": "^5.0.0",
     "null-loader": "^4.0.1",
     "path": "^0.12.7",
