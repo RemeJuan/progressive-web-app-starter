@@ -67,7 +67,7 @@
     "path": "^0.12.7",
     "pixrem": "^5.0.0",
     "pleeease-filters": "^4.0.0",
-    "postcss": "^8.2.2",
+    "postcss": "^8.2.10",
     "postcss-calc": "^7.0.5",
     "postcss-color-function": "^4.1.0",
     "postcss-custom-media": "^7.0.8",
